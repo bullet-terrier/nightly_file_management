@@ -1,0 +1,7 @@
+c:\users\btiernan\Source\Repos\Truncate_Logs_DotNet\bin\Release\Truncate_Logs_DotNet.exe.config
+c:\users\btiernan\Source\Repos\Truncate_Logs_DotNet\bin\Release\Truncate_Logs_DotNet.exe
+c:\users\btiernan\Source\Repos\Truncate_Logs_DotNet\bin\Release\Truncate_Logs_DotNet.pdb
+c:\users\btiernan\Source\Repos\Truncate_Logs_DotNet\obj\Release\Truncate_Logs_DotNet.csproj.CoreCompileInputs.cache
+c:\users\btiernan\Source\Repos\Truncate_Logs_DotNet\obj\Release\Truncate_Logs_DotNet.exe
+c:\users\btiernan\Source\Repos\Truncate_Logs_DotNet\obj\Release\Truncate_Logs_DotNet.pdb
+c:\users\btiernan\Source\Repos\Truncate_Logs_DotNet\obj\Release\Truncate_Logs_DotNet.csprojAssemblyReference.cache
